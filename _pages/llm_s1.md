@@ -13,10 +13,6 @@ redirect_from:
 
 # 第一章 大模型简介
 
-“”“
-2024.6.16
-”“”
-
 国外知名LLM：GPT-3.5、GPT-4、PaLM、Claude 和 LLaMA 等。
 国内知名LLM：文心一言、讯飞星火、通义千问、ChatGLM、百川等。
 
@@ -113,11 +109,13 @@ RAG 和 微调的对比可以参考下表
 LangChain 框架是一个开源工具，充分利用了大型语言模型的强大能力，以便开发各种下游应用。它的目标是为各种大型语言模型应用提供通用接口，从而简化应用程序的开发流程。具体来说，LangChain 框架可以实现数据感知和环境互动，也就是说，它能够让语言模型与其他数据来源连接，并且允许语言模型与其所处的环境进行互动。
 
 利用 LangChain 框架，我们可以轻松地构建如下所示的 RAG 应用（图片来源）。在下图中，每个椭圆形代表了 LangChain 的一个模块，例如数据收集模块或预处理模块。每个矩形代表了一个数据状态，例如原始数据或预处理后的数据。箭头表示数据流的方向，从一个模块流向另一个模块。在每一步中，LangChain 都可以提供对应的解决方案，帮助我们处理各种任务。
-![langchain](https://github.com/niysNiysniys/niysNiysniys.github.io/blob/master/images/C1-3-langchain.png)
+<img href="https://github.com/niysNiysniys/niysNiysniys.github.io/blob/master/images/C1-3-langchain.png"></img>
 
 ## 开发LLM应用整体流程
 - 整体思路：用 Prompt Engineering 来替代子模型的训练调优，通过 Prompt 链路组合来实现业务逻辑，用一个通用大模型 + 若干业务 Prompt 来解决任务，从而将传统的模型训练调优转变成了更简单、轻松、低成本的 Prompt 设计调优。
 - 评估思路：流程更为灵活和敏捷。从实际业务需求出发构造小批量验证集，设计合理 Prompt 来满足验证集效果。然后，将不断从业务逻辑中收集当下 Prompt 的 Bad Case，并将 Bad Case 加入到验证集中，针对性优化 Prompt，最后实现较好的泛化效果。
+
+
 流程：
 1. 确定目标。
 2. 设计功能。

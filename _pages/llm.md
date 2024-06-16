@@ -20,4 +20,5 @@ redirect_from:
 ## Section 1:大模型简介
 <a href="https://niysniysniys.github.io/llm/s1/">大模型简介</a>
 ### 2024.6.16
-大语言模型LLM理论简介 
+大语言模型LLM理论简介
+检索增强生成 RAG 简介

@@ -9,4 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Section 1: 大模型简介 <a>https://niysniysniys.github.io/llm/s1/</a>
+# 项目参考
+- datawhale 动手学大模型应用开发
+
+# 项目简介
+## 项目目的
+1. 学习如何使用llm api开发llm应用。
+
+# 项目学习
+## Section 1:大模型简介
+<a href="https://niysniysniys.github.io/llm/s1/">大模型简介</a>
+### 2024.6.16
+大语言模型LLM理论简介 

@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'spark kmeans'
+date: 2024-6-17
+permalink: /posts/2024/06/spark-kmeans/
 tags:
   - cool posts
   - category1

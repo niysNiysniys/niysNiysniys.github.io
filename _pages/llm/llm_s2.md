@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+NTLK 资源下载：https://github.com/nltk/nltk
+
+
 # 使用LLM API开发应用

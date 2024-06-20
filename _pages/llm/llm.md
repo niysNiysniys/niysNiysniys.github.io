@@ -24,3 +24,5 @@ redirect_from:
 检索增强生成 RAG 简介
 开发LLM应用的整体流程
 
+## Section 2:使用LLM API开发应用
+[section 2](https://niysniysniys.github.io/llm/s2/)

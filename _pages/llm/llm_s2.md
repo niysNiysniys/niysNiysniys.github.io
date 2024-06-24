@@ -23,4 +23,5 @@ temperature: 0-1
 https://open.bigmodel.cn/
 注册即送25million tokens。实名认证，最高可解锁5million tokens。
 
-[zhipu_test_code](https://github.com/niysNiysniys/niysNiysniys.github.io/blob/master/_pages/llm/assets/zhipu_test.png)
+
+![zhipu_test_code](https://github.com/niysNiysniys/niysNiysniys.github.io/blob/master/_pages/llm/assets/zhipu_test.png)

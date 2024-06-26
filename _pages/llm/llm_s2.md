@@ -21,7 +21,13 @@ temperature: 0-1
 
 ## 智谱ChatGLM
 https://open.bigmodel.cn/
+
 注册即送25million tokens。实名认证，最高可解锁5million tokens。
-
-
+以下是api调用测试。
 ![zhipu_test_code](https://niysniysniys.github.io/_pages/llm/assets/zhipu_test.png))
+
+## Prompt 设计的原则和使用技巧
+### 使用<span style=“color: red;”>更长、更复杂的prompt</span>，提供更丰富的上小文和细节。
+
+
+

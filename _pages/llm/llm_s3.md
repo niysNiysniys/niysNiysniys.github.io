@@ -116,13 +116,7 @@ print(f"切分后的字符数（可以用来大致评估 token 数）：{sum([le
 
 # 搭建并使用向量数据库
 在最后一步中碰到一个bug。
-```
-vectordb = Chroma.from_documents(
-    documents=split_docs[:20], # 为了速度，只选择前 20 个切分的 doc 进行生成；使用千帆时因QPS限制，建议选择前 5 个doc
-    embedding=embedding,
-    persist_directory=persist_directory  # 允许我们将persist_directory目录保存到磁盘上
-)
-```
+
 error:
 <font color=FF0000>'function' object has no attribute 'embed_documents'</font>
 原因：

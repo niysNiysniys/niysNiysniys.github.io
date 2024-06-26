@@ -26,3 +26,6 @@ redirect_from:
 
 ## Section 2:使用LLM API开发应用
 [section 2](https://niysniysniys.github.io/llm/s2/)
+
+## Section 3:搭建知识库
+[section 3](https://niysniysniys.github.io/llm/s3/)

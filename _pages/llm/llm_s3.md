@@ -119,8 +119,10 @@ print(f"切分后的字符数（可以用来大致评估 token 数）：{sum([le
 
 error:
 <font color=FF0000>'function' object has no attribute 'embed_documents'</font>
+
 原因：
 This is likely because the embed_documents method is not a part of the ZhipuAIEmbeddings class.
 The ZhipuAIEmbeddings class in LangChain is designed to generate embeddings for individual documents, not for a list of documents. Therefore, it doesn't have an embed_documents method. 
+
 解决：
 ![langchain_pdf_reader](https://niysniysniys.github.io/_pages/llm/assets/chroma_test.png)

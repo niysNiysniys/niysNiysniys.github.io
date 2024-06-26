@@ -27,7 +27,7 @@ https://open.bigmodel.cn/
 ![zhipu_test_code](https://niysniysniys.github.io/_pages/llm/assets/zhipu_test.png))
 
 ## Prompt 设计的原则和使用技巧
-### 使用<span style=“color: red;”>更长、更复杂的prompt</span>，提供更丰富的上小文和细节。
+使用<span style=“color: red;”>更长、更复杂的prompt</span>，提供更丰富的上小文和细节。
 
 
 

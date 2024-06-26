@@ -27,7 +27,6 @@ https://open.bigmodel.cn/
 ![zhipu_test_code](https://niysniysniys.github.io/_pages/llm/assets/zhipu_test.png))
 
 ## Prompt 设计的原则和使用技巧
-使用<font color=FF0000>更长、更复杂的prompt</font>，提供更丰富的上小文和细节。
-\color{FF0000}{hello}
+使用<font color=FF0000>更长、更复杂</font>的prompt，提供更丰富的上小文和细节。
 
 

@@ -10,8 +10,10 @@ tags:
 
 # 基于星火大模型的群聊对话分角色要素提取挑战
 1. 注册科大讯飞新用户。
-2. 实名制领取1亿tokens。
-3. 在百度飞桨 AI Studio运行baseline。
+   https://challenge.xfyun.cn/topic/info?type=role-element-extraction&option=ssgy
+3. 实名制领取1亿tokens。
+4. 在百度飞桨 AI Studio运行baseline。
+   https://aistudio.baidu.com/projectdetail/8116948?forkThirdPart=1
 
 在训练测试中发生以下error:
 - index: 18 , error: Key '下一步跟进计划-具体事项' is not of type str

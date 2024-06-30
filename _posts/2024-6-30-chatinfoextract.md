@@ -1,5 +1,5 @@
 ---
-title: 'spark kmeans'
+title: '基于星火大模型的群聊对话分角色要素提取挑战'
 date: 2024-6-17
 permalink: /posts/2024/06/chatinfoextract/
 tags:

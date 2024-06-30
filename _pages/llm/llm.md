@@ -29,3 +29,6 @@ redirect_from:
 
 ## Section 3:搭建知识库
 [section 3](https://niysniysniys.github.io/llm/s3/)
+
+## Section 4:构建RAG应用
+[section 4](https://niysniysniys.github.io/llm/s4/)
